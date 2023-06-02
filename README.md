@@ -1,5 +1,4 @@
 # Calculateur de somme de chiffres
-
 Ce programme permet de calculer la somme des chiffres d'un nombre entier donné.
 
 # Comment utiliser le programme
